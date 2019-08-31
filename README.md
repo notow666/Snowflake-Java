@@ -1,4 +1,5 @@
 # Java实现雪花算法
+源代码和笔记参考我的GitHub：[https://github.com/lzhpo/Snowflake-Java](https://github.com/lzhpo/Snowflake-Java)
 
 ## 什么是雪花算法SnowFlake？
 SnowFlake算法是Twitter设计的一个可以在分布式系统中生成唯一的ID的算法，它可以满足Twitter每秒上万条消息ID分配的请求，这些消息ID是唯一的且有大致的递增顺序。
