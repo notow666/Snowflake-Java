@@ -1,4 +1,4 @@
-package com.lzhpo;
+package com.lzhpo.snowflake;
 
 /**
  * <p> Author：lzhpo </p>
